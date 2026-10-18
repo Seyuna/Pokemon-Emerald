@@ -1,4 +1,4 @@
-﻿namespace PokemonEmerald.Core.Species
+﻿namespace PokemonEmerald.Core.Species.Helper
 {
     public static class PersonalityHelper
     {

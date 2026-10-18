@@ -1,5 +1,6 @@
 ﻿using PokemonEmerald.Core.Rng;
 using PokemonEmerald.Core.Species;
+using PokemonEmerald.Core.Species.Helper;
 
 namespace PokemonEmerald.Tests.Species;
 

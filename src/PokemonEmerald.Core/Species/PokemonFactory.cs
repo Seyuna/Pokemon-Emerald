@@ -3,6 +3,7 @@ using PokemonEmerald.Core.Abilities;
 using PokemonEmerald.Core.Items;
 using PokemonEmerald.Core.Rng;
 using PokemonEmerald.Core.Species.Experience;
+using PokemonEmerald.Core.Species.Helper;
 using PokemonEmerald.Core.Species.Registry;
 
 namespace PokemonEmerald.Core.Species

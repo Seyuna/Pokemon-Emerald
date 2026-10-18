@@ -1,4 +1,5 @@
 ﻿using PokemonEmerald.Core.Items;
+using PokemonEmerald.Core.Species.Helper;
 
 namespace PokemonEmerald.Core.Species
 {

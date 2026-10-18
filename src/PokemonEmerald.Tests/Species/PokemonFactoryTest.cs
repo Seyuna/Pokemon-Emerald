@@ -2,6 +2,7 @@
 using PokemonEmerald.Core.Rng;
 using PokemonEmerald.Core.Species;
 using PokemonEmerald.Core.Species.Experience;
+using PokemonEmerald.Core.Species.Helper;
 using PokemonEmerald.Core.Species.Registry;
 
 namespace PokemonEmerald.Tests.Species
