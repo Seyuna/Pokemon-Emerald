@@ -1,0 +1,85 @@
+# C# / .NET — Visual Studio + JetBrains Rider
+# Keep source, .sln/.slnx, project files, shared build settings, and NuGet lock files.
+
+# .NET build outputs
+**/bin/
+**/obj/
+**/out/
+**/publish/
+**/TestResults/
+
+# Common generated artifacts / test & coverage output
+*.pdb
+*.mdb
+*.opencover.xml
+*.coverage
+*.coveragexml
+coverage/
+coverage-*/
+coverage.cobertura.xml
+lcov.info
+*.trx
+*.ncrunch*
+_NCrunch_*
+
+# Visual Studio local state and per-user files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.sln.ide
+*.csproj.user
+*.vbproj.user
+*.vcxproj.user
+*.pidb
+*.svd
+*.cachefile
+
+# Rider / JetBrains IDE local state
+.idea/
+*.sln.iml
+*.DotSettings.user
+_ReSharper*/
+*.[Rr]e[Ss]harper.user
+*.ReSharperCache/
+*.RiderCache/
+
+# JetBrains Fleet local state
+.fleet/
+
+# NuGet local package directory (legacy packages.config projects)
+packages/
+!packages/build/
+
+# Local tooling / generated temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local environment and secret files
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pfx
+*.p12
+*.snk
+
+# ASP.NET / Azure publishing profiles: user-local and secrets
+*.pubxml.user
+*.publishsettings
+
+# Optional, repo-specific rules should be added below.
+# Do not generally ignore appsettings*.json, launchSettings.json,
+# *.sln, *.csproj, Directory.Build.*, global.json, or packages.lock.json.

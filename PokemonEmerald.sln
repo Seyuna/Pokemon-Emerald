@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonEmerald.Core", "src\PokemonEmerald.Core\PokemonEmerald.Core.csproj", "{0F4ED16C-0665-4E4D-899C-357DF5C31602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonEmerald.Tests", "src\PokemonEmerald.Tests\PokemonEmerald.Tests.csproj", "{1B91747A-DEAC-4F8C-8313-CAC9248CFD20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonEmeral.App", "src\PokemonEmeral.App\PokemonEmeral.App.csproj", "{2A1302A1-F590-4BB0-AC03-0EC48C518570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F4ED16C-0665-4E4D-899C-357DF5C31602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4ED16C-0665-4E4D-899C-357DF5C31602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4ED16C-0665-4E4D-899C-357DF5C31602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4ED16C-0665-4E4D-899C-357DF5C31602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B91747A-DEAC-4F8C-8313-CAC9248CFD20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B91747A-DEAC-4F8C-8313-CAC9248CFD20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B91747A-DEAC-4F8C-8313-CAC9248CFD20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B91747A-DEAC-4F8C-8313-CAC9248CFD20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A1302A1-F590-4BB0-AC03-0EC48C518570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1302A1-F590-4BB0-AC03-0EC48C518570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1302A1-F590-4BB0-AC03-0EC48C518570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1302A1-F590-4BB0-AC03-0EC48C518570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
