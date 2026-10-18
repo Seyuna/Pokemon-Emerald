@@ -1,7 +1,4 @@
-﻿
-using System;
-using NUnit.Framework;
-using PokemonEmerald.Core.Species;
+﻿using PokemonEmerald.Core.Species;
 
 namespace PokemonEmerald.Tests.Species
 {

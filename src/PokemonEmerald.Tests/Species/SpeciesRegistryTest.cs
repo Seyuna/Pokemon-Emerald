@@ -1,5 +1,4 @@
-﻿using PokemonEmerald.Core.Abilities;
-using PokemonEmerald.Core.Species;
+﻿using PokemonEmerald.Core.Species;
 using PokemonEmerald.Core.Species.Registry;
 
 namespace PokemonEmerald.Tests.Species;

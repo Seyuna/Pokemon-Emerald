@@ -1,5 +1,4 @@
-﻿using System.Runtime;
-using PokemonEmerald.Core.Rng;
+﻿using PokemonEmerald.Core.Rng;
 
 namespace PokemonEmerald.Tests.Rng;
 
